@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Student Profile</string>
+    <string name="profile_header_title">Student Profile</string>
+    <string name="desc_profile_img">Profile photo of the student</string>
+
+    <!-- change these with your own details -->
+    <string name="student_name">Shanmukha</string>
+    <string name="val_roll_number">Roll Number: 24EU04144</string>
+    <string name="val_branch">Branch: B.Tech - CSE</string>
+    <string name="val_section">Section: A</string>
+    <string name="val_cgpa">CGPA: 8.5</string>
+    <string name="val_language">Preferred Language: Java</string>
+    <string name="val_career_goal">Career Goal: Software Engineer</string>
+</resources>
